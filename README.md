@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FTSTE.2024.XXXXXXX-blue.svg)](https://doi.org/10.1109/TSTE.2024.XXXXXXX)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16547945-blue.svg)](https://doi.org/10.5281/zenodo.16547945)
 
 This repository contains the complete code, data, and analysis accompanying the research paper:
 
@@ -197,11 +197,12 @@ If you use this code or data in your research, please cite our paper:
 @article{tichy2024simulation,
   title={Simulation of a virtual hub CORE and its impact on cross-border PPAs},
   author={Tichý, Martin and Miltner, Marek and Štogl, Ondřej and Bemš, Július},
-  journal={IEEE Transactions on Sustainable Energy},
+  journal={IEEE Access},
   year={2024},
   publisher={IEEE},
-  doi={10.1109/TSTE.2024.XXXXXXX}
+  doi={10.5281/zenodo.16547945}
 }
+```
 ```
 
 ## 👥 Authors
