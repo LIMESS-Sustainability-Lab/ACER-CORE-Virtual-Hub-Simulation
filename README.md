@@ -188,8 +188,11 @@ We welcome contributions! Please feel free to:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+<!-- Citation will be added once the paper is published -->
+<!--
 ## 📚 Citation
+
+
 
 If you use this code or data in your research, please cite our paper:
 
@@ -203,6 +206,7 @@ If you use this code or data in your research, please cite our paper:
   doi={10.5281/zenodo.16547945}
 }
 ```
+-->
 ```
 
 ## 👥 Authors
