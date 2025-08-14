@@ -10,7 +10,7 @@ This repository contains the complete code, data, and analysis accompanying the 
 
 *Authors:* Martin Tichý, Marek Miltner, Ondřej Štogl, Július Bemš  
 *Institution:* Faculty of Electrical Engineering, CTU in Prague  
-*Journal:* IEEE Access (to be published)
+*Journal:* (to be published)
 
 ## 📋 Abstract
 
